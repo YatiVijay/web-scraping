@@ -1,2 +1,6 @@
 # web-scraping
-automate and fetching data from sites (worldometer) usning selemim and beautiful soup library 
+automate and fetching data into the csv files 
+sites:- 
+1. worldometers(covid) 
+2. bookchor(books)
+Usning selemim and beautiful soup library 
